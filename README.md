@@ -57,9 +57,8 @@ An interactive dashboard was created in Excel, featuring:
 ```
 
 ## 💡 How to Use
-1. Download the **Dataset.xlsx** file.
-2. Open **Dashboard.xlsx** to explore interactive visuals.
-3. Refer to **Report.pdf** for detailed insights.
+1. Download the **HV.xlsx** file.
+2. Open **HV.xlsx** to explore interactive visuals.
 
 ## 📩 Contact
 For queries or suggestions, feel free to connect:
